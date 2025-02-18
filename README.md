@@ -1,23 +1,14 @@
 # POWER-BI-DAATA-VISUALISATION
 Respected Person, Greetings to you 
 
-The Following POWER BI Project was a workshop: Where We analysed and visualised data in the Power BI software 
-
-The data Consists from the perspective of a product where there are multiple components of analysation
+The Following POWER BI Project was a workshop: Where We analysed and visualised data in the Power BI software, The data Consists from the perspective of a product where there are multiple components of analysation
 Firstly we have the Sales person and the tree connects with the other elements which are 
-1. Product
-2. Region
-3. item cost
-4. The customers
-5. the date it was sold on
-6. No of items which were sold
-7. How much was the cost of it
-8. The margin and the revenue we made
+1. Product, 2. Region, 3. item cost, 4. The customer, 5. the date it was sold on, 6. No of items which were sold, 7. How much was the cost of it,8. The margin and the revenue we made
 
 Now that we have the clear idea about the variables: it makes us understand that the data is solely based on the sales
 We analysed and Visualised in the Visualisation tool
 
-[kindly check the screenshot for better understandung]
+[kindly check the screenshot for better understandung] Data Visualisation Explanation: 
 In the above analysis continued with the data visualization :
 We have figured out Multiple questions from the point of REVENUE AND COST on the basis of SALES 
 

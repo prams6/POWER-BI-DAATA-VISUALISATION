@@ -30,5 +30,9 @@ Lastly we understood that the Product Bamboo Foam Couch had more 90% SALES or Fa
 
 However we have to also focus on the average  of how the sales were in every quarter 
 
+<h1><B> ASSUMPTION </B></H1>
+However there can also be scenarios where we can also add more data variables to get an accurate understanding about what we excatly need to do, However In Powerbi we can actually mutiple or play with the variables to check the data more thorouhly if time agrees.
+
+Thats it from my end
 Thank you.
 main [For more other visualisation based on the analysis: Kinldy click on the BI file or the workshop pdf]

@@ -22,6 +22,9 @@ Firstly We would like to congratulate the Global stores for the profit they have
 
 Thirdly we also analyzed how the 80% of the sales were by our clients through STYLE AND SPA , in second position was Metro 
 
+![Screenshot (454)](https://github.com/user-attachments/assets/651159e9-9b65-420c-8573-6e0b9e4508f3)
+
+
 <h1><B> SUGGESTION  TO THE OPERATION TEAM </B></H1>
 Lastly we understood that the Product Bamboo Foam Couch had more 90% SALES or Fans than Shahrukh khan, So I think focusing on the product and bringing the varieties and sell it premium to normal ranges of the product would bring us for more revenue generation as  Metro Comes second and First comes the SPA and styling where we have the niche market.
 

@@ -31,4 +31,4 @@ Lastly we understood that the Product Bamboo Foam Couch had more 90% SALES or Fa
 However we have to also focus on the average  of how the sales were in every quarter 
 
 Thank you.
-main
+main [For more other visualisation based on the analysis: Kinldy click on the BI file or the workshop pdf]
